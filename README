@@ -16,6 +16,10 @@ You should have received a copy of the GNU General Public License
 along with Spidy Simulator.  If not, see <http://www.gnu.org/licenses/>.
 -------------------------------------------------------------------------------
 
+Code from objLoader and shadow inclusions are taken from Alessandro Martinelli's
+Jogl Tutorial.
+-------------------------------------------------------------------------------
+
 Spidy Simulator is a software that shows how a 6 leg ant walks using Spidy
 software.
 Its output is dependent of Spidy's output. Spidy has a "runme" script that has
